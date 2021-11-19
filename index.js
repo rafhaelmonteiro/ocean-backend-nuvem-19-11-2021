@@ -15,9 +15,9 @@ async function main() {
 
     const db = client.db(dbName);
 
-    const collection = db.collection("herois");
+    const collection = db.collection("herois");*/
 
-    const app = express();*/
+    const app = express();
 
     // Informando para o Express considerar o corpo da requisição
     // em formato JSON
